@@ -12,5 +12,5 @@ theres always enough stock to fulfill customer orders.
 2. Open tableau and connect to appropriate SSMS database server  
 3. Load Inventory_Viz.twb 
 
-![Dashboard For Inventory](/Screenshots/Dashboard_For_Inventory.png?raw=true "Dashboard For Inventory")
-![Dashboard For Inventory With Filter](/Screenshots/Dashboard_For_Inventory_With_Filter.png?raw=true "Dashboard For Inventory With Filter")
+![Dashboard For Inventory](/Screenshots/Dashboard_For_Inventory.PNG?raw=true "Dashboard For Inventory")
+![Dashboard For Inventory With Filter](/Screenshots/Dashboard_For_Inventory_With_Filter.PNG?raw=true "Dashboard For Inventory With Filter")
